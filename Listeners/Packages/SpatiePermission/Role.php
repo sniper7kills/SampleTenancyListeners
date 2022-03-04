@@ -1,5 +1,5 @@
 <?php
-namespace App\Support\Packages\SpatiePermission;
+namespace App\Tenancy\Listeners\Packages\SpatiePermission;
 
 use Tenancy\Affects\Connections\Support\Traits\OnTenant;
 
